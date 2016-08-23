@@ -1,6 +1,6 @@
 # cummings lab members :tropical_fish:
 
-This repository contains all sorts of useful information for new and current members of the Cummings lab.
+This repository contains all sorts of useful information for new and current members of the [Cummings lab](http://www.bio.utexas.edu/research/cummingslab/).
 
 # newbies
 If you are new or starting in the lab, head over to the folder called new members or [click here](https://github.com/lukereding/cummings_lab_members/tree/master/new-members). In the folder you'll find your first two tasks as new lab members: 
