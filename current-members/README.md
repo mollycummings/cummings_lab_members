@@ -1,13 +1,22 @@
 # for current lab members
 
 - Materials related to the common garden experiment can be found [here](https://drive.google.com/drive/folders/0By-mmmYFVU9PdXdnMXp4RWxTdUU).
+- The code associated with the program that undergrads use to score the common garden videos is [here](https://github.com/lukereding/common_garden).
+- Kelly's numerosity analysis code can be found [here](https://github.com/kjw2539/numerosityanalysis).
 
 ## feeding schedule, Fall 2016
 
 | day | feeder |
 | ---- | ---- |
 | Sunday | TBD |
-| Sunday | TBD |
+| Monday | TBD |
+| Tuesday | TBD |
+| Wednesday | TBD |
+| Thursday | TBD |
+| Friday | TBD |
+| Saturday | TBD |
 
 
 ## water change schedule, Fall 2016
+
+also TBD
