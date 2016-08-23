@@ -10,9 +10,9 @@
 | day | feeder |
 | ---- | ---- |
 | Sunday | TBD |
-| Monday | TBD |
+| Monday | Lily |
 | Tuesday | TBD |
-| Wednesday | TBD |
+| Wednesday | Caleb |
 | Thursday | TBD |
 | Friday | TBD |
 | Saturday | TBD |
