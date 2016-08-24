@@ -11,9 +11,9 @@
 | ---- | ---- |
 | Sunday | TBD |
 | Monday | Lily |
-| Tuesday | TBD |
+| Tuesday | Kelly |
 | Wednesday | Caleb |
-| Thursday | TBD |
+| Thursday | Matt |
 | Friday | TBD |
 | Saturday | TBD |
 
