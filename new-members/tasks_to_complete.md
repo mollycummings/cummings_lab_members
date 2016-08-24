@@ -31,7 +31,7 @@ You can check your training record in the eProtocol drop-down menu under Investi
 
 EH&S is the body that oversees lab safety on campus. Even if you aren’t running around the lab mixing acids and bases or pipetting RNA, you still need to complete the following modules in case you accidentally wander into one of the molecular labs and can’t find your way out.
 
-- Find your way to http://www.utexas.edu/safety/ehs/train/ 
+- Find your way to http://ehs.utexas.edu/training/lab-training-requirements.php
 - Complete the following modules:
   - OH 101
   - OH 201
