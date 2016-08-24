@@ -14,7 +14,7 @@
 | Tuesday | Kelly |
 | Wednesday | Caleb |
 | Thursday | Matt |
-| Friday | TBD |
+| Friday | Ronda |
 | Saturday | TBD |
 
 
