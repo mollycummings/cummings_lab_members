@@ -26,11 +26,11 @@ be sure to scroll the table to the right! there are 11 racks total!
 'status' refers to whether there are fish on those racks or not. If there aren't fish tanks on a given rack, you don't need to water change!
 
 | date | rack 1 | rack 2 | rack 3 | rack 4 | rack 5 | rack 6 | rack 7 | rack 8 | rack 9 | rack 10 | rack 11 |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | status | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | location | upstairs | upstairs | upstairs | upstairs | upstairs | upstairs | downstairs | downstairs | downstairs | downstairs | downstairs |
-| 29 August  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| 12 September  | :no_entry_sign: | Sarah | Kelly | :no_entry_sign: | Lily | Luke | Sammy | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **29 August**  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **12 September**  | :no_entry_sign: | Sarah | Kelly | :no_entry_sign: | Lily | Luke | Sammy | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 
 
 ## other points of interest
