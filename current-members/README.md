@@ -8,6 +8,10 @@
 
 ## feeding schedule, fall 2016
 
+Please let Luke know if you are sick or traveling on a day you're supposed to be feeding.
+
+The guide for feeding the fish is [here](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/feeding_guide.md).
+
 | day | feeder |
 | ---- | ---- |
 | Sunday | TBD |
