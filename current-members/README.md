@@ -29,6 +29,8 @@ All racks are labeled in yellow. Please refer to [how_to_do_water_changes.md](ht
 
 be sure to scroll the table to the right! there are 11 racks total!
 
+'status' refers to whether there are fish on those racks or not. If there aren't fish tanks on a given rack, you don't need to water change!
+
 | date | rack 1 | rack 2 | rack 3 | rack 4 | rack 5 | rack 6 | rack 7 | rack 8 | rack 9 | rack 10 | rack 11 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | status | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
