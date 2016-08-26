@@ -16,7 +16,7 @@ Make sure you hear the pump turn on and verify that water is pumping.
 After 30 minutes the Prime and water are well mixed and you can use the water.
 
 ## faq:
-q — I'm in the downstairs fish room. What do I do?
+q — I'm in the downstairs fish room. What do I do?       
 a — The steps for refilling water in the downstairs fish room are the same. The Prime is on the black shelving. The reservoir is 35 gallons instead of 2 x 50 gallons upstairs.  You'll have to refill the reservoir with get tap water from the hose to the right of the sink. It's best if you have two people for this job. Instead of turning on the pump, notice that there are a mass of four cords tied together coming out of the reservoir. These are attached to blowers in the reservoir, which blow around water. Plug in all four cords. Wait _at least_ half an hour before using this water in fish tanks.
 
 q — Why do we use this water instead of water from the sink?      
