@@ -13,7 +13,7 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 | Tuesday | Kelly |
 | Wednesday | Caleb |
 | Thursday | Matt |
-| Friday | Ronda |
+| Friday | Randa |
 | Saturday | TBD |
 
 
