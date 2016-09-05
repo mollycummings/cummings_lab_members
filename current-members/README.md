@@ -8,7 +8,7 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 
 | day | feeder |
 | ---- | ---- |
-| Sunday | TBD |
+| Sunday | Matt |
 | Monday | Lily |
 | Tuesday | Kelly |
 | Wednesday | Caleb |
@@ -35,8 +35,24 @@ be sure to scroll the table to the right! there are 11 racks total!
 
 ## other points of interest
 
+### cummings lab specific
 - Materials related to the common garden experiment can be found [here](https://drive.google.com/drive/folders/0By-mmmYFVU9PdXdnMXp4RWxTdUU).
 - The code associated with the program that undergrads use to score the common garden videos is [here](https://github.com/lukereding/common_garden).
 - Kelly's numerosity analysis code can be found [here](https://github.com/kjw2539/numerosityanalysis).
-- Luke's introduction to R and data analysis aimed for undergrads can be found [here](http://rpubs.com/lukereding/162259).
-- Trying to learn an R package? Luke has some examples and tutorials [here](https://github.com/lukereding/random_scripts/blob/master/r_tutorials.R).
+
+### GUI software
+- [Midador](https://fathom.info/mirador/) - for exploring complex datasets with many variables, seeing what variables are most highly correlated with some other variable of interest. Useful in the early stages of analyzing a large, complex dataset
+- [Gelphi](https://gephi.org/) - illustrater for networks/graphs
+
+### R
+- [R for data science](http://r4ds.had.co.nz/): your guide for wrangling, plotting, and summarizing data in R   
+- Luke's introduction to R and data analysis aimed for undergrads can be found [here](http://rpubs.com/lukereding/162259)
+- Trying to learn an R package? Luke has some examples and tutorials [here](https://github.com/lukereding/random_scripts/blob/master/r_tutorials.R)  
+
+#### R packages of interest
+- [pheatmap](https://github.com/raivokolde/pheatmap) - for creating attractive heatmaps
+- [corrrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) - for creating nice plots of correlations between variables
+- [dplyr & tidyr](https://rpubs.com/bradleyboehmke/data_wrangling) - for working with dataframes and making your data tidy
+- [purrr](https://github.com/hadley/purrr) - for functional programming. The `map` functions this packages provides are really powerful when paired with the `mutate` class of functions in dplyr
+- [packrat](http://rstudio.github.io/packrat/commands.html) - for keeping track of installed packages, and versions of those packages, for a given project
+- [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - a nice perceptually uniform, colorblind-friendly colormap
