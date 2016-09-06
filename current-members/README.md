@@ -42,17 +42,26 @@ be sure to scroll the table to the right! there are 11 racks total!
 
 ### GUI software
 - [Midador](https://fathom.info/mirador/) - for exploring complex datasets with many variables, seeing what variables are most highly correlated with some other variable of interest. Useful in the early stages of analyzing a large, complex dataset
-- [Gelphi](https://gephi.org/) - illustrater for networks/graphs
+- [Gephi](https://gephi.org/) - illustrater for networks/graphs
 
 ### R
 - [R for data science](http://r4ds.had.co.nz/): your guide for wrangling, plotting, and summarizing data in R   
 - Luke's introduction to R and data analysis aimed for undergrads can be found [here](http://rpubs.com/lukereding/162259)
 - Trying to learn an R package? Luke has some examples and tutorials [here](https://github.com/lukereding/random_scripts/blob/master/r_tutorials.R)  
 
-#### R packages of interest
+**R packages and resources of interest:**
+#### data visualization
 - [pheatmap](https://github.com/raivokolde/pheatmap) - for creating attractive heatmaps
 - [corrrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) - for creating nice plots of correlations between variables
+- [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - a nice perceptually uniform, colorblind-friendly colormap
+- [ggplot2 cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+
+#### data wrangling
 - [dplyr & tidyr](https://rpubs.com/bradleyboehmke/data_wrangling) - for working with dataframes and making your data tidy
 - [purrr](https://github.com/hadley/purrr) - for functional programming. The `map` functions this packages provides are really powerful when paired with the `mutate` class of functions in dplyr
+- [data wrangling cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+
+#### version control / repeatability
 - [packrat](http://rstudio.github.io/packrat/commands.html) - for keeping track of installed packages, and versions of those packages, for a given project
-- [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - a nice perceptually uniform, colorblind-friendly colormap
+- [R markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+
