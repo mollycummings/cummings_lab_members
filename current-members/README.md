@@ -31,6 +31,8 @@ be sure to scroll the table to the right! there are 11 racks total!
 | location | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 434B | PAT 434B | PAT 434B | PAT 434B | PAT 434B |
 | **29 August**  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | **12 September**  | :no_entry_sign: | Sarah | Kelly | :no_entry_sign: | Lily | Luke | Sammy | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **26 September**  | :no_entry_sign: | Sammy | Ben | :no_entry_sign: | Randa | Sam | Sarah | Lily  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **10 October**  | :no_entry_sign: | Ben | Sammy | :no_entry_sign: | Sam | Randa | Lily | Sarah | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 
 
 ## other points of interest
