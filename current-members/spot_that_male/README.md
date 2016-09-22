@@ -16,8 +16,8 @@ This isn't a direct photo of the male, but notice on the right a fish with yello
 
 ![photo2](./photo2.png "Logo Title Text 1")
 
-It's a little hard to see in this photo, but this developing male is a little yellow and he has a longer, thin body shape
+If you look carefully at this photo, you'll notice that this male's anal fin is not completely spread out like a fan, but is starting to become elongated.
 
 ![photo3](./photo3.png "Logo Title Text 1")
 
-If you look carefully at this photo, you'll notice that this male's anal fin is not completely spread out like a fan, but is starting to become elongated.
+It's a little hard to see in this photo, but this developing male is a little yellow and he has a longer, thin body shape
