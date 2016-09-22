@@ -40,6 +40,15 @@ Argues that a mechanistic approach to behavior both enhances our ability to ask 
 
 **Nested by design: model fitting and interpretation in a mixed model era.** Schielzeth and Nakagawa. 2013.
 
+#### books:
+
+**A primer of ecological statistics.** Gotelli and Ellison.     
+A awesome book that focuses mainly on probability and the theory behind stats (i.e. you won't find a line of R code in this book). Focuses on parametric, non-parametric, and permutation statistical analyses.
+
+**Introductary statistics with R.** Dalgaard.   
+If you're new to R and need to learn basic stats, this is the place to start.
+
+
 --------------
 
 
@@ -47,16 +56,22 @@ Argues that a mechanistic approach to behavior both enhances our ability to ask 
 
 **Ten simple rules for better figures.** Rougier, Droettboom, and Bourne. 2014.
 
-**Ten simple rules for making good oral presentations.** Bourne. 2007.
-
 **Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm.** Weissgerber et al. 2015.
 
 -----------
 
-### writing papers
+### writing papers / presenting science
 
 **Writing scientific papers.** Endler. 2015.
 
 [**Ten simple rules for writing research papers.** Zhang. 2014.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453)
 
 **Fifty psychological and psychiatric terms to avoid: a list of inaccurate, misleading, misused, ambiguous, and logically confused words and phrases.** Liliendfeld et al. 2015.
+
+[How to give a talk. Sterns.](http://www.howtogiveatalk.com/)
+
+**Ten simple rules for making good oral presentations.** Bourne. 2007.
+
+#### books: 
+
+**Writing science.** Schimel. 2012.
