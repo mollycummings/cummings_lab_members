@@ -56,4 +56,6 @@ Argues that a mechanistic approach to behavior both enhances our ability to ask 
 
 **Writing scientific papers.** Endler. 2015.
 
+[**Ten simple rules for writing research papers.** Zhang. 2014.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453)
+
 **Fifty psychological and psychiatric terms to avoid: a list of inaccurate, misleading, misused, ambiguous, and logically confused words and phrases.** Liliendfeld et al. 2015.
