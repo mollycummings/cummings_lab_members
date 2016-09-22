@@ -20,8 +20,8 @@ Other ways males court is by swimming in front of the females and then shimmying
 
 
 ## identifying small males
-	 Small males are sometimes hard to identify, especially if there are large juveniles present. Juveniles however have rounded bellies while small males are thin. In addition, females are drab in color while small males may have a yellow or blue tint. As stated earlier, the best way to spot a small male is by watching the females--most of the time small males lurk around and chase them. 
+Small males are sometimes hard to identify, especially if there are large juveniles present. Juveniles however have rounded bellies while small males are thin. In addition, females are drab in color while small males may have a yellow or blue tint. As stated earlier, the best way to spot a small male is by watching the females--most of the time small males lurk around and chase them. 
 
 
 ## tips
-	When taking videos, makes sure that all the plants and pots are pushed towards the back of the tank and that everything else that may obstruct views (such as floating leaves, tape on the tank, or thermometers) are out of view. Try to get the video to be center and level as well as close as possible without cutting out the tank label. 
+When taking videos, makes sure that all the plants and pots are pushed towards the back of the tank and that everything else that may obstruct views (such as floating leaves, tape on the tank, or thermometers) are out of view. Try to get the video to be center and level as well as close as possible without cutting out the tank label. 
