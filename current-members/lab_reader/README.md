@@ -1,12 +1,13 @@
 # cummings lab reader
 
-This folder contains a bunch of papers that have to do with:
-(a) designing experiments
-(b) thinking critically about science
-(c) doing statistics
-(d) visualizing data / results
-(e) philosphy of ethology 
-(f) writing papers
+This folder contains a bunch of papers that have to do with:    
+
+(a) designing experiments    
+(b) thinking critically about science     
+(c) doing statistics    
+(d) visualizing data / results      
+(e) philosphy of ethology       
+(f) writing papers     
 
 If you have a paper that falls into one of these categories, feel free to add it here or email luke to add it.
 
