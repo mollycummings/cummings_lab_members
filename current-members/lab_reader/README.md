@@ -40,6 +40,8 @@ Argues that a mechanistic approach to behavior both enhances our ability to ask 
 
 **Nested by design: model fitting and interpretation in a mixed model era.** Schielzeth and Nakagawa. 2013.
 
+[**Ten simple rules for effective statistical practice. Kass et al. 2016.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
+
 #### books:
 
 **A primer of ecological statistics.** Gotelli and Ellison.     
@@ -58,6 +60,9 @@ If you're new to R and need to learn basic stats, this is the place to start.
 
 **Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm.** Weissgerber et al. 2015.
 
+[**Ten Simple (Empirical) Rules for Writing Science**. Weinberger, Evans, and Allesina. 2015.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004205)
+
+
 -----------
 
 ### writing papers / presenting science
@@ -71,6 +76,8 @@ If you're new to R and need to learn basic stats, this is the place to start.
 [How to give a talk. Sterns.](http://www.howtogiveatalk.com/)
 
 **Ten simple rules for making good oral presentations.** Bourne. 2007.
+
+[**Ten simple rules for reviewers.** Bourne and Korngreene. 2006.](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020110)
 
 #### books: 
 
