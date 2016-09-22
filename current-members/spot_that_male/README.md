@@ -9,12 +9,12 @@ Things to look for:
 
 Here we go:
 
-![photo1](./photo1.jpg "Logo Title Text 1")
+![photo1](./photo1.png "Logo Title Text 1")
 
 This isn't a direct photo of the male, but notice on the right a fish with yellow on its tail. This fish will almost certainly develop into a male. Yellowness is a Y-linked trait. Small males can be either XY or XX, so yellowness isn't a perfect diagnositc, but if you see yellow like in the photo you know it's a male.
 
 
-![photo2](./photo2.jpg "Logo Title Text 1")
+![photo2](./photo2.png "Logo Title Text 1")
 
 It's a little hard to see in this photo, but this developing male is a little yellow and he has a longer, thin body shape
 
