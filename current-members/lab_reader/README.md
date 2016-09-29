@@ -73,6 +73,8 @@ If you're new to R and need to learn basic stats, this is the place to start.
 
 **Fifty psychological and psychiatric terms to avoid: a list of inaccurate, misleading, misused, ambiguous, and logically confused words and phrases.** Liliendfeld et al. 2015.
 
+Claus Wilke's universal paper outline.
+
 [How to give a talk. Sterns.](http://www.howtogiveatalk.com/)
 
 **Ten simple rules for making good oral presentations.** Bourne. 2007.
