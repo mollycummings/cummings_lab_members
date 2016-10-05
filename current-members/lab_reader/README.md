@@ -75,6 +75,8 @@ If you're new to R and need to learn basic stats, this is the place to start.
 
 Claus Wilke's universal paper outline.
 
+[The art of writing science](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3009394/). Plaxco 2010.
+
 [How to give a talk. Sterns.](http://www.howtogiveatalk.com/)
 
 **Ten simple rules for making good oral presentations.** Bourne. 2007.
