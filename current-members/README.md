@@ -27,7 +27,7 @@ be sure to scroll the table to the right! there are 11 racks total!
 
 | date | rack 1 | rack 2 | rack 3 | rack 4 | rack 5 | rack 6 | rack 7 | rack 8 | rack 9 | rack 10 | rack 11 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| status | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| status | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: |
 | location | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 434B | PAT 434B | PAT 434B | PAT 434B | PAT 434B |
 | **4 December**  | Rachel E. | Sarah | Luke | :no_entry_sign: | Ben | Sammy | Randa | Sam | Ben | :no_entry_sign: | :no_entry_sign: |
 | **20 November**  | Rachel E. | Sarah | Ben | :no_entry_sign: | Luke | Sammy | Sam | Randa | Ben | :no_entry_sign: | :no_entry_sign: |
