@@ -29,10 +29,17 @@ be sure to scroll the table to the right! there are 11 racks total!
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | status | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | location | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 434B | PAT 434B | PAT 434B | PAT 434B | PAT 434B |
-| **29 August**  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **12 September**  | :no_entry_sign: | Sarah | Kelly | :no_entry_sign: | Lily | Luke | Sammy | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **26 September**  | :no_entry_sign: | Sammy | Ben | :no_entry_sign: | Randa | Sam | Sarah | Lily  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **4 December**  | Rachel E. | Sarah | Luke | :no_entry_sign: | Ben | Sammy | Randa | Sam | Ben | :no_entry_sign: | :no_entry_sign: |
+| **20 November**  | Rachel E. | Sarah | Ben | :no_entry_sign: | Luke | Sammy | Sam | Randa | Ben | :no_entry_sign: | :no_entry_sign: |
+| **6 November**  | Rachel E. | Ben | Sarah | :no_entry_sign: | Randa | Sam | Sammy | Luke | Ben | :no_entry_sign: | :no_entry_sign: |
+| **23 October**  | Rachel E. | Ben | Sarah | :no_entry_sign: | Randa | Sam | Lily | Sammy | Rachel E. | :no_entry_sign: | :no_entry_sign: |
 | **10 October**  | :no_entry_sign: | Ben | Sammy | :no_entry_sign: | Sam | Randa | Lily | Sarah | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **26 September**  | :no_entry_sign: | Sammy | Ben | :no_entry_sign: | Randa | Sam | Sarah | Lily  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **12 September**  | :no_entry_sign: | Sarah | Kelly | :no_entry_sign: | Lily | Luke | Sammy | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **29 August**  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+
+
+
 
 
 ## other points of interest
