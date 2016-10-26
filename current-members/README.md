@@ -64,11 +64,19 @@ be sure to scroll the table to the right! there are 11 racks total!
 - [corrrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html) - for creating nice plots of correlations between variables
 - [viridis](https://cran.r-project.org/web/packages/viridis/vignettes/intro-to-viridis.html) - a nice perceptually uniform, colorblind-friendly colormap
 - [ggplot2 cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
+- [directlabels](http://directlabels.r-forge.r-project.org/) - for those that harbor an antipathy for unweidy legends. Automatically places labels for (1) line plots or (2) scatterplots with >2 groups.
+- [ggrepel](https://github.com/slowkow/ggrepel/blob/master/vignettes/ggrepel.md) - following a similar philosophical approach as `directlabels`, the purpose of `ggrepel` is to label the individual data points on a scatterplot with meaningly labels.
+- [ggalt](https://github.com/hrbrmstr/ggalt) - contains additional `geoms` for use in `ggplot2`. Most useful: `geom_lollipop` and `geom_dumbbell`
+- [ggthemes](https://github.com/jrnold/ggthemes) - additional useful color schemes and looks for graphs in `ggplot2`
 
 #### data wrangling
 - [dplyr & tidyr](https://rpubs.com/bradleyboehmke/data_wrangling) - for working with dataframes and making your data tidy
 - [purrr](https://github.com/hadley/purrr) - for functional programming. The `map` functions this packages provides are really powerful when paired with the `mutate` class of functions in dplyr
 - [data wrangling cheat sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+
+#### modeling
+- [broom](https://github.com/dgrtwo/broom) - converts model outputs to dataframes for easier manipulation and plotting with ggplot
+- [modelr](https://github.com/hadley/modelr) - useful modeling functions
 
 #### version control / repeatability
 - [packrat](http://rstudio.github.io/packrat/commands.html) - for keeping track of installed packages, and versions of those packages, for a given project
