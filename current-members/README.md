@@ -68,6 +68,7 @@ be sure to scroll the table to the right! there are 11 racks total!
 - [ggrepel](https://github.com/slowkow/ggrepel/blob/master/vignettes/ggrepel.md) - following a similar philosophical approach as `directlabels`, the purpose of `ggrepel` is to label the individual data points on a scatterplot with meaningly labels.
 - [ggalt](https://github.com/hrbrmstr/ggalt) - contains additional `geoms` for use in `ggplot2`. Most useful: `geom_lollipop` and `geom_dumbbell`
 - [ggthemes](https://github.com/jrnold/ggthemes) - additional useful color schemes and looks for graphs in `ggplot2`
+- [ggforce](https://cran.r-project.org/web/packages/ggforce/vignettes/Visual_Guide.html) - additional functions for using with `ggplot2`. Notably, `geom_sina()` allows the creation of sinaplots (like in Brady et al. 2015 Science) and `facet_zoom()` allows you to show a zoomed-in part of a graph. 
 
 #### data wrangling
 - [dplyr & tidyr](https://rpubs.com/bradleyboehmke/data_wrangling) - for working with dataframes and making your data tidy
