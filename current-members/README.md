@@ -70,6 +70,11 @@ be sure to scroll the table to the right! there are 11 racks total!
 - [ggthemes](https://github.com/jrnold/ggthemes) - additional useful color schemes and looks for graphs in `ggplot2`
 - [ggforce](https://cran.r-project.org/web/packages/ggforce/vignettes/Visual_Guide.html) - additional functions for using with `ggplot2`. Notably, `geom_sina()` allows the creation of sinaplots (like in Brady et al. 2015 Science) and `facet_zoom()` allows you to show a zoomed-in part of a graph. 
 
+#### quality control
+- [visdat](https://github.com/njtierney/visdat) - for visualizing missing data in a dataframe. Run this once you have a dataframe and but _before_ you do any analysis on it.
+- [ggmissing](https://github.com/njtierney/ggmissing) - for visualizing missing data in `ggplot2`. Useful as an alternative / second step after running `vis_dat`. 
+- [wakefield](https://github.com/trinker/wakefield#demonstration) - for generating random datasets for function testing, etc.
+
 #### data wrangling
 - [dplyr & tidyr](https://rpubs.com/bradleyboehmke/data_wrangling) - for working with dataframes and making your data tidy
 - [purrr](https://github.com/hadley/purrr) - for functional programming. The `map` functions this packages provides are really powerful when paired with the `mutate` class of functions in dplyr
