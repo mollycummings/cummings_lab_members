@@ -21,11 +21,9 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 |  | 25 | Sarah |
 |  | 26 - 28 | Mary |
 |  | 29 - 31 | Sarah |
-| January | 1 | Sarah |
-|  | 2 | Rachel K |
+| January | 1-2 | Sarah |
 |  | 3 | Mary |
-|  | 4 | Rachel K |
-|  | 5 - 9 | ?? |
+|  | 4 - 9 | Rachel K |
 |  | 10 | Kelly |
 |  | 11 - TBD | Luke |
 
