@@ -1,52 +1,46 @@
 # for current lab members
 
-## feeding schedule, fall 2016
+## feeding schedule, spring 2017
 
 Please let Luke know if you are sick or traveling on a day you're supposed to be feeding.
 
 The guide for feeding the fish is [here](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/feeding_guide.md).
 
-## 2016 - 2017 Holiday Feeding Schedule
-
-| Month | Day | Feeder |
+| Day | Feeder |
 |:----|:----|:----|
-| December | 15 - 16 | Luke |
-|  | 17 | Kelly |
-|  | 18 | Matt |
-|  | 19 | Rachel K |
-|  | 20 | Sarah |
-|  | 21 | Rachel K |
-|  | 22 - 23 | Kelly |
-|  | 24 | Mary |
-|  | 25 | Sarah |
-|  | 26 - 28 | Mary |
-|  | 29 - 31 | Sarah |
-| January | 1-2 | Sarah |
-|  | 3 | Mary |
-|  | 4 - 9 | Rachel K |
-|  | 10 | Kelly |
-|  | 11 - TBD | Luke |
+| Sunday | ? |
+| Monday | Randa | 
+| Tuesday | Kelly | 
+| Wednesday | ? |
+| Thursday | Caleb |
+| Friday | Sam |
+| Saturday | Lily |
 
-## water change schedule, fall 2016
+## water change schedule, spring 2017
 
 All racks are labeled in yellow. Please refer to [how_to_do_water_changes.md](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/how_to_do_water_changes.md) and [making_water.md](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/making_water.md) for questions about water changes and making new water.
 
-be sure to scroll the table to the right! there are 11 racks total!
+Be sure to scroll the table to the right! there are 11 racks total!
 
 'status' refers to whether there are fish on those racks or not. If there aren't fish tanks on a given rack, you don't need to water change!
+
+Let Luke know if you can't do water changes for a given week.
 
 | date | rack 1 | rack 2 | rack 3 | rack 4 | rack 5 | rack 6 | rack 7 | rack 8 | rack 9 | rack 10 | rack 11 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | status | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: |
 | location | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 434B | PAT 434B | PAT 434B | PAT 434B | PAT 434B |
-| **4 December**  | Rachel E. | Sarah | Luke | :no_entry_sign: | Ben | Sammy | Randa | Sam | Ben | :no_entry_sign: | :no_entry_sign: |
-| **20 November**  | Rachel E. | Sarah | Ben | :no_entry_sign: | Luke | Sammy | Sam | Randa | Ben | :no_entry_sign: | :no_entry_sign: |
-| **6 November**  | Rachel E. | Ben | Sarah | :no_entry_sign: | Randa | Sam | Sammy | Luke | Ben | :no_entry_sign: | :no_entry_sign: |
-| **23 October**  | Rachel E. | Ben | Sarah | :no_entry_sign: | Randa | Sam | Lily | Sammy | Rachel E. | :no_entry_sign: | :no_entry_sign: |
-| **10 October**  | :no_entry_sign: | Ben | Sammy | :no_entry_sign: | Sam | Randa | Lily | Sarah | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **26 September**  | :no_entry_sign: | Sammy | Ben | :no_entry_sign: | Randa | Sam | Sarah | Lily  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **12 September**  | :no_entry_sign: | Sarah | Kelly | :no_entry_sign: | Lily | Luke | Sammy | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **29 August**  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **23 Jan - 27 Jan**  | Ben | Randa | Sarah | Matt | Eduardo | Conner | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **30 Jan - 3 Feb**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Caleb | Sammy | Lily | Sam | Kat |
+| **6 Feb - 10 Feb**  | Conner | Ben | Sarah | Randa | Matt | Eduardo | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **13 Feb - 17 Feb**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Kat | Caleb | Sammy | Lily | Sam |
+| **20 Feb - 24 Feb**  | Eduardo | Conner | Ben | Randa | Sarah | Matt | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **27 Feb - 3 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sam | Kat | Caleb | Sammy | Lily |
+| **6 Mar - 10 Mar**  | Matt | Eduardo | Conner | Ben | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **13 Mar - 17 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Lily | Sam | Kat | Caleb | Sammy |
+| **20 Mar - 24 Mar**  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **27 Mar - 31 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sammy | Lily | Sam | Kat | Caleb |
+| **3 Apr - 7 Apr**  | Randa | Ben | Matt | Eduardo | Conner | Sarah | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 
 
 
