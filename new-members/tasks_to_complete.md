@@ -23,10 +23,10 @@ IACUC is the governing body that oversees animal welfare on campus. Before you b
 - Under the eProtocol drop-down menu in upper left part of screen choose AALAS Learning Library
 - In the Libraries drop-down menu choose Animal Care and Use Courses
 - You need to take the following courses:
-  - 3198: Orientation
-  - 3219: Introduction to Zebrafish
-  - 3199: Other Species Training Module – general care and use
-  - 3927: Introduction to Fish
+  - Orientation (under Group Courses on the left)
+  - Introduction to Fish (under Tracks to the left)
+  - Working with Zebrafish (under Tracks to the left)
+  - Other Species Training Module (General Care and Use) (under Tracks to the left)
 
 You can check your training record in the eProtocol drop-down menu under Investigator then selecting Training Record.
 
