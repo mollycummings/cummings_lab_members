@@ -38,7 +38,7 @@ Let Luke know if you can't do water changes for a given week.
 | **27 Feb - 3 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sam | Kat | Caleb | Sammy | Lily |
 | **6 Mar - 10 Mar**  | Matt | Eduardo | Conner | Ben | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | **13 Mar - 17 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Lily | Sam | Kat | Caleb | Sammy |
-| **20 Mar - 24 Mar**  | :no_entry_sign: | Kelly | Sarah | :no_entry_sign: | Luke :man: | Lily | Randa | Sammy | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **6 Mar - 10 Mar**  | Matt | Eduardo | Conner | Ben | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | **27 Mar - 31 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sammy | Lily | Sam | Kat | Caleb |
 | **3 Apr - 7 Apr**  | Randa | Ben | Matt | Eduardo | Conner | Sarah | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 
