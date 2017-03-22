@@ -30,20 +30,15 @@ Let Luke know if you can't do water changes for a given week.
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | status | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: |
 | location | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 434B | PAT 434B | PAT 434B | PAT 434B | PAT 434B |
-| **23 Jan - 27 Jan**  | Ben | Randa | Sarah | Matt | Eduardo | Conner | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **30 Jan - 3 Feb**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Caleb | Sammy | Lily | Sam | Kat |
-| **6 Feb - 10 Feb**  | Conner | Ben | Sarah | Randa | Matt | Eduardo | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **13 Feb - 17 Feb**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Kat | Caleb | Sammy | Lily | Sam |
-| **20 Feb - 24 Feb**  | Eduardo | Conner | Ben | Randa | Sarah | Matt | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **27 Feb - 3 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sam | Kat | Caleb | Sammy | Lily |
-| **6 Mar - 10 Mar**  | Matt | Eduardo | Conner | Ben | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | **13 Mar - 17 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Lily | Sam | Kat | Caleb | Sammy |
-| **6 Mar - 10 Mar**  | Matt | Eduardo | Conner | Ben | Randa | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **20 Mar - 24 Mar**  | Randa | Matt | Eduardo | Conner | Ben | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | **27 Mar - 31 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sammy | Lily | Sam | Kat | Caleb |
 | **3 Apr - 7 Apr**  | Randa | Ben | Matt | Eduardo | Conner | Sarah | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-
-
-
+| **10 Apr - 14 Apr**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Caleb | Sammy | Lily | Sam | Kat|
+| **17 Apr - 21 Apr** | Sarah | Randa | Ben | Matt | Eduardo | Conner | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **24 Apr - 28 Apr**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Kat | Caleb | Sammy | Lily | Sam |
+| **1 May - 5 May** | Conner | Sarah | Randa | Ben | Matt | Eduardo | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
+| **8 May - 12 May**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sam | Kat | Caleb | Sammy | Lily | 
 
 
 ## other points of interest
