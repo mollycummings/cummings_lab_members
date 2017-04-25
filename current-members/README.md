@@ -6,15 +6,16 @@ Please let Luke know if you are sick or traveling on a day you're supposed to be
 
 The guide for feeding the fish is [here](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/feeding_guide.md).
 
-| Day | Feeder |
-|:----|:----|:----|
-| Sunday | ? |
-| Monday | Randa | 
-| Tuesday | Kelly | 
-| Wednesday | Matt |
-| Thursday | Caleb |
-| Friday | Sam |
-| Saturday | Lily |
+| day  |  feeder |
+|---|---|
+| Monday  | Randa  |
+| Tuesday | Kelly  |
+| Wednesday  | Kelly  |
+| Thursday  | Caleb  |
+| Friday  | Sam  |
+| Saturday | Lily  |
+| Sunday | Luke  |
+
 
 ## water change schedule, spring 2017
 
