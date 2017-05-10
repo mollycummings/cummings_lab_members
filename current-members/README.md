@@ -16,6 +16,9 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 | Saturday | Lily  |
 | Sunday | Luke  |
 
+## summer 2017 schedules
+
+You can find the schedules of lab folks here in summer 2017 [here](https://docs.google.com/a/utexas.edu/spreadsheets/d/1_RQHVHNj1qwYX0NWWUdbTGjW-MdV_dJ0u7bmDLMwjGE/edit?usp=sharing) (must be logged into your UT Google account to view or edit).
 
 ## water change schedule, spring 2017
 
