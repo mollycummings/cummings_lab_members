@@ -44,6 +44,13 @@ Let Luke know if you can't do water changes for a given week.
 | **1 May - 5 May** | Conner | Sarah | Randa | Ben | Matt | Eduardo | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
 | **8 May - 12 May**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sam | Kat | Caleb | Sammy | Lily | 
 
+## BFL Daily Inspections
+
+When you go out to BFL to inspect the tanks, please remember: 
+
+(1) To follow the guidelines [here](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/bfl_daily_checklist.md). 
+(2) Fill out the [Google form](https://goo.gl/forms/ZdS6uDZQtyupwpEv2) upon returning.
+
 
 ## other points of interest
 
