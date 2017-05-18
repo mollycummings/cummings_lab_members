@@ -1,6 +1,6 @@
 # for current lab members
 
-## feeding schedule, spring 2017
+## feeding schedule, summer 2017
 
 Please let Luke know if you are sick or traveling on a day you're supposed to be feeding.
 
@@ -8,47 +8,30 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 
 | day  |  feeder |
 |---|---|
-| Monday  | Randa  |
-| Tuesday | Kelly  |
-| Wednesday  | Kelly  |
-| Thursday  | Caleb  |
-| Friday  | Sam  |
-| Saturday | Lily  |
-| Sunday | Luke  |
+| Monday  | Rachel  |
+| Tuesday | Rachel  |
+| Wednesday  | Rachel  |
+| Thursday  | Rachel  |
+| Friday  | Rachel|
+| Saturday | TBD  |
+| Sunday | TBD  |
 
-## summer 2017 schedules
+## student schedules, summer 2017
 
 You can find the schedules of lab folks here in summer 2017 [here](https://docs.google.com/a/utexas.edu/spreadsheets/d/1_RQHVHNj1qwYX0NWWUdbTGjW-MdV_dJ0u7bmDLMwjGE/edit?usp=sharing) (must be logged into your UT Google account to view or edit).
 
-## water change schedule, spring 2017
+## water change schedule, summer 2017
 
-All racks are labeled in yellow. Please refer to [how_to_do_water_changes.md](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/how_to_do_water_changes.md) and [making_water.md](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/making_water.md) for questions about water changes and making new water.
-
-Be sure to scroll the table to the right! there are 11 racks total!
-
-'status' refers to whether there are fish on those racks or not. If there aren't fish tanks on a given rack, you don't need to water change!
-
-Let Luke know if you can't do water changes for a given week.
-
-| date | rack 1 | rack 2 | rack 3 | rack 4 | rack 5 | rack 6 | rack 7 | rack 8 | rack 9 | rack 10 | rack 11 |
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| status | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :tropical_fish: | :no_entry_sign: | :no_entry_sign: |
-| location | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 512 | PAT 434B | PAT 434B | PAT 434B | PAT 434B | PAT 434B |
-| **13 Mar - 17 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Lily | Sam | Kat | Caleb | Sammy |
-| **20 Mar - 24 Mar**  | Randa | Matt | Eduardo | Conner | Ben | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **27 Mar - 31 Mar**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sammy | Lily | Sam | Kat | Caleb |
-| **3 Apr - 7 Apr**  | Randa | Ben | Matt | Eduardo | Conner | Sarah | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **10 Apr - 14 Apr**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Caleb | Sammy | Lily | Sam | Kat|
-| **17 Apr - 21 Apr** | Sarah | Randa | Ben | Matt | Eduardo | Conner | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **24 Apr - 28 Apr**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Kat | Caleb | Sammy | Lily | Sam |
-| **1 May - 5 May** | Conner | Sarah | Randa | Ben | Matt | Eduardo | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: |
-| **8 May - 12 May**  | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | :no_entry_sign: | Sam | Kat | Caleb | Sammy | Lily | 
+The water change schedule for summer 2017 can be found [here](https://docs.google.com/spreadsheets/d/11rDYFusCRDkfhVnJj6glyc-7UZe_sjGYtff7ETf30nk/edit#gid=0).
 
 ## BFL Daily Inspections
+
+The schedule for BFL visits can be found [here](https://docs.google.com/spreadsheets/d/1P8ZHOhtR9YWiSQtk04iip2XgDmuTlmmn8ljlmesAvPg/edit#gid=0).
 
 When you go out to BFL to inspect the tanks, please remember: 
 
 (1) To follow the guidelines [here](https://github.com/lukereding/cummings_lab_members/blob/master/current-members/bfl_daily_checklist.md). 
+
 (2) Fill out the [Google form](https://goo.gl/forms/ZdS6uDZQtyupwpEv2) upon returning.
 
 
