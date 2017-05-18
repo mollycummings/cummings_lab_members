@@ -1,6 +1,8 @@
 # for current lab members
 
-## feeding schedule, summer 2017
+## daily and weekly tasks
+
+### feeding schedule, summer 2017
 
 Please let Luke know if you are sick or traveling on a day you're supposed to be feeding.
 
@@ -16,15 +18,11 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 | Saturday | TBD  |
 | Sunday | TBD  |
 
-## student schedules, summer 2017
-
-You can find the schedules of lab folks here in summer 2017 [here](https://docs.google.com/a/utexas.edu/spreadsheets/d/1_RQHVHNj1qwYX0NWWUdbTGjW-MdV_dJ0u7bmDLMwjGE/edit?usp=sharing) (must be logged into your UT Google account to view or edit).
-
-## water change schedule, summer 2017
+### water change schedule, summer 2017
 
 The water change schedule for summer 2017 can be found [here](https://docs.google.com/spreadsheets/d/11rDYFusCRDkfhVnJj6glyc-7UZe_sjGYtff7ETf30nk/edit#gid=0).
 
-## BFL Daily Inspections
+### BFL Daily Inspections
 
 The schedule for BFL visits can be found [here](https://docs.google.com/spreadsheets/d/1P8ZHOhtR9YWiSQtk04iip2XgDmuTlmmn8ljlmesAvPg/edit#gid=0).
 
@@ -34,6 +32,9 @@ When you go out to BFL to inspect the tanks, please remember:
 
 (2) Fill out the [Google form](https://goo.gl/forms/ZdS6uDZQtyupwpEv2) upon returning.
 
+## student schedules, summer 2017
+
+You can find the schedules of lab folks here in summer 2017 [here](https://docs.google.com/a/utexas.edu/spreadsheets/d/1_RQHVHNj1qwYX0NWWUdbTGjW-MdV_dJ0u7bmDLMwjGE/edit?usp=sharing) (must be logged into your UT Google account to view or edit).
 
 ## other points of interest
 
@@ -41,6 +42,8 @@ When you go out to BFL to inspect the tanks, please remember:
 - Materials related to the common garden experiment can be found [here](https://drive.google.com/drive/folders/0By-mmmYFVU9PdXdnMXp4RWxTdUU).
 - The code associated with the program that undergrads use to score the common garden videos is [here](https://github.com/lukereding/common_garden).
 - Kelly's numerosity analysis code can be found [here](https://github.com/kjw2539/numerosityanalysis).
+
+## R / software / analysis
 
 ### GUI software
 - [Midador](https://fathom.info/mirador/) - for exploring complex datasets with many variables, seeing what variables are most highly correlated with some other variable of interest. Useful in the early stages of analyzing a large, complex dataset
