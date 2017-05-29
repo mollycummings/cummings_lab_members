@@ -20,7 +20,7 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 
 ### water change schedule, summer 2017
 
-The water change schedule for summer 2017 can be found [here](https://docs.google.com/spreadsheets/d/11rDYFusCRDkfhVnJj6glyc-7UZe_sjGYtff7ETf30nk/edit#gid=0).
+The water change schedule for summer 2017 can be found [here](https://docs.google.com/spreadsheets/d/1pVwqyetFLGVl_2qQ40qCH0Nvhe7ODzKC7J_oyQsiOQg/edit).
 
 ### BFL Daily Inspections
 
