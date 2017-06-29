@@ -49,6 +49,10 @@ You can find the schedules of lab folks here in summer 2017 [here](https://docs.
 
 ## R / software / analysis
 
+### learning bash
+
+- [the unix workbench book](http://seankross.com/the-unix-workbench/index.html) -- online for free
+
 ### GUI software
 - [Midador](https://fathom.info/mirador/) - for exploring complex datasets with many variables, seeing what variables are most highly correlated with some other variable of interest. Useful in the early stages of analyzing a large, complex dataset
 - [Gephi](https://gephi.org/) - illustrater for networks/graphs
