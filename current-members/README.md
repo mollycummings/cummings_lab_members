@@ -36,7 +36,11 @@ When you go out to BFL to inspect the tanks, please remember:
 
 (2) Fill out the [Google form](https://goo.gl/forms/ZdS6uDZQtyupwpEv2) upon returning.
 
-## student schedules, summer 2017
+### common garden log form
+
+The form to log checks on the common garden tanks can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSf8G8y5AXi_Asf4aAu25KmZ_nxF0XzmQbHKyr29zsTECXidKg/viewform?usp=sf_link).
+
+### student schedules, summer 2017
 
 You can find the schedules of lab folks here in summer 2017 [here](https://docs.google.com/a/utexas.edu/spreadsheets/d/1_RQHVHNj1qwYX0NWWUdbTGjW-MdV_dJ0u7bmDLMwjGE/edit?usp=sharing) (must be logged into your UT Google account to view or edit).
 
