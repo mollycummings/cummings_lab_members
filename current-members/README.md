@@ -97,3 +97,5 @@ You can find the schedules of lab folks here in summer 2017 [here](https://docs.
 - [packrat](http://rstudio.github.io/packrat/commands.html) - for keeping track of installed packages, and versions of those packages, for a given project
 - [R markdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 
+### other
+- [Tabula](http://tabula.technology): extract tables from PDFs
