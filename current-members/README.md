@@ -78,6 +78,7 @@ You can find the schedules of lab folks here in summer 2017 [here](https://docs.
 - [ggthemes](https://github.com/jrnold/ggthemes) - additional useful color schemes and looks for graphs in `ggplot2`
 - [ggforce](https://cran.r-project.org/web/packages/ggforce/vignettes/Visual_Guide.html) - additional functions for using with `ggplot2`. Notably, `geom_sina()` allows the creation of sinaplots (like in Brady et al. 2015 Science) and `facet_zoom()` allows you to show a zoomed-in part of a graph. 
 - [ggally](http://ggobi.github.io/ggally/) - a collection of functions that extend `ggplot2`. Includes `ggparcoord` for plotting parallel coordinates and `ggpairs` to create nice summaries of dataframes with (equivalent of `plot(dataframe)` in base R).
+- [ggsifnif](ggsignif) - for automatically adding significance starts to ANOVA-like plots
 
 #### quality control
 - [visdat](https://github.com/njtierney/visdat) - for visualizing missing data in a dataframe. Run this once you have a dataframe and but _before_ you do any analysis on it.
