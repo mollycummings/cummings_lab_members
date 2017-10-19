@@ -93,6 +93,7 @@ You can find the schedules of lab folks here in summer 2017 [here](https://docs.
 #### modeling
 - [broom](https://github.com/dgrtwo/broom) - converts model outputs to dataframes for easier manipulation and plotting with ggplot
 - [modelr](https://github.com/hadley/modelr) - useful modeling functions
+- [padr](https://cran.r-project.org/web/packages/padr/vignettes/padr.html) - super useful when working with time series data in a tidy way
 
 #### version control / repeatability
 - [packrat](http://rstudio.github.io/packrat/commands.html) - for keeping track of installed packages, and versions of those packages, for a given project
