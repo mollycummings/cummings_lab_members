@@ -10,19 +10,19 @@ The guide for feeding the fish is [here](https://github.com/lukereding/cummings_
 
 | day  |  feeder |
 |---|---|
-| Monday  | Rachel  |
-| Tuesday | Rachel  |
-| Wednesday  | Rachel  |
-| Thursday  | Rachel  |
-| Friday  | Rachel|
-| Saturday | TBD  |
-| Sunday | TBD  |
+| Monday  |   |
+| Tuesday |   |
+| Wednesday  |   |
+| Thursday  |   |
+| Friday  | |
+| Saturday | |
+| Sunday |   |
 
 ### water change schedule, summer 2017
 
 The water change schedule for summer 2017 can be found [here](https://docs.google.com/spreadsheets/d/1pVwqyetFLGVl_2qQ40qCH0Nvhe7ODzKC7J_oyQsiOQg/edit).
 
-As a quick reference, here is a schematic, not drawn to scale, of where the racks are in each of the fish rooms:
+As a quick reference, here is a schematic (not drawn to scale) of where the racks are in each of the fish rooms:
 
 ![fish room](./fish_room.png)
 
