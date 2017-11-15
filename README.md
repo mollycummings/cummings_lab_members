@@ -1,4 +1,4 @@
-# cummings lab members :tropical_fish:
+# cummings lab members :fish:
 
 This repository contains all sorts of useful information for new and current members of the [Cummings lab](http://www.bio.utexas.edu/research/cummingslab/).
 
