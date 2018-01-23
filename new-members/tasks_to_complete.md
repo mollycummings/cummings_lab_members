@@ -43,9 +43,9 @@ To kick things off, you'll need to register for [UTlearn[(https://utlearn.utexas
   - OH 201
   - OH 202
   - OH 207
-- Ask [Mary](http://www.bio.utexas.edu/research/cummingslab/post-doc-projects.html) to take you on a grand tour of the lab space. We call this OH 102.
-- Schedule a time to put out a fire (!) by following this link to sign up for FF 205: http://www.utexas.edu/safety/fire/extinguishers/training.html 
+- Ask Sarah <a href="mailto:sarah.price@utexas.edu">here</a> to take you on a grand tour of the lab space. We call this OH 102.
+- Schedule a time to put out a fire (!) by logging into [UTLearn](https://utlearn.utexas.edu/) and search for class FF 205 (EID is required to sign up for the class) .
 
-- Finally, the cherry on top: email your name and EID to Mary by clicking <a href="mailto:mramsey@austin.utexas.edu">here</a> and let her know you’ve completed your arduous journey.
+- Finally, the cherry on top: email your name and EID to Sarah by clicking <a href="mailto:sarah.price@utexas.edu">here</a> and let her know you’ve completed your arduous journey.
 
 Great job. You can email <a href="mailto:lukereding.utexas.edu">Luke</a> and let him know you're finished with everything.
