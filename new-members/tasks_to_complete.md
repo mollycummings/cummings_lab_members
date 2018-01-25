@@ -35,7 +35,7 @@ You can check your training record in the eProtocol drop-down menu under Investi
 
 EH&S is the body that oversees lab safety on campus. Even if you aren’t running around the lab mixing acids and bases or pipetting RNA, you still need to complete the following modules in case you accidentally wander into one of the molecular labs and can’t find your way out.
 
-To kick things off, you'll need to register for [UTlearn[(https://utlearn.utexas.edu) using the link emailed to you by EHS. If they haven’t emailed you, you can contact them directly and they will send you the link. Follow prompts to register, and then you can sign in to take the courses below.
+To kick things off, you'll need to register for [UTlearn](https://utlearn.utexas.edu) using the link emailed to you by EHS. If they haven’t emailed you, you can contact them directly and they will send you the link. Follow prompts to register, and then you can sign in to take the courses below.
 
 - Find your way to http://ehs.utexas.edu/training/lab-training-requirements.php
 - Complete the following modules:
