@@ -17,8 +17,8 @@ IACUC is the governing body that oversees animal welfare on campus. Before you b
   - You will need some idea of your vaccination history for this. 
   - PI: Molly Cummings
   - BSL Level 1
-  - Protocol Number: AUP-2013-00156
-  - When you’re done filling out the form, take a stroll over to the NOA building and drop it off with the nice people at HealthPoint.
+  - Protocol Number: AUP-2016-00246
+  - When you’re done filling out the form, take a stroll over to SSB and drop it off with the nice people at HealthPoint.
 - Go to https://spike.orsc.utexas.edu/ep2/ to access the training modules. You'll sign in with your UT EID and password.
 - Under the eProtocol drop-down menu in upper left part of screen choose AALAS Learning Library
 - In the Libraries drop-down menu choose Animal Care and Use Courses
